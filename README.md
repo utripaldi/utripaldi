@@ -63,4 +63,4 @@
 ## 📫 Contacto
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ulisestripaldi/)
-- ✉️ [Email](utripaldi@fi.uba.ar)
+- ✉️ [Email](mailto:utripaldi@fi.uba.ar)
